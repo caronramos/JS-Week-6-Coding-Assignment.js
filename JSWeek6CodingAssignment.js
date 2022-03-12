@@ -13,3 +13,7 @@ console.log(c.showCard());
 
 class Deck {
   constructor(){
+    let cards = [
+      ];
+  }
+}
