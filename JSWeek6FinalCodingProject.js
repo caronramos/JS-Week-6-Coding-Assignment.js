@@ -41,4 +41,7 @@ class Game {
   compareScore(){
     
   }
+  createPlayers(){
+    
+  }
 }
