@@ -1,6 +1,7 @@
 # JS-Week-6-Coding-Assignment.js
 JS Week 6 Coding Assignment
 Coding Steps:
+
 For the final project you will be creating an automated version of the classic card game WAR.
 Think about how you would build this project and write your plan down. 
 Consider classes such as Card, Deck, and Player and what fields and methods they might each have. 
