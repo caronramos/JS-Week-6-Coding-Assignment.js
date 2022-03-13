@@ -16,7 +16,7 @@ class Deck {
         //appropriate suit and value
       ];
   createDeck(){
-    cards.push(new Card("spades", 1));
+    cards.push(new Card("Spades", 1));
     
   }
   
